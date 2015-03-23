@@ -3,11 +3,6 @@ package PJ3;
 import java.util.*;
 import java.io.*;
 
-// You may add new functions or data in this class 
-// You may modify any functions or data members here
-// You must use Customer, Teller and ServiceArea
-// to implement your simulator
-
 class BankSimulator {
 
   // input parameters
@@ -199,11 +194,6 @@ class BankSimulator {
 
   private void printStatistics()
   {
-	// add statements into this method!
-	// print out simulation results
-	// see the given example in project statement
-        // you need to display all free and busy tellers
-      
         System.out.println("\nEnd Simulatiuon Report \n");
         System.out.println("\t# total arrival customers  : " + totalCustomer);
         System.out.println("\t# customers gone-away      : " + numGoaway);
