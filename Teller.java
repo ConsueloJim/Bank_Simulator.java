@@ -1,4 +1,4 @@
-// DO NOT ADD NEW METHODS OR DATA FIELDS!
+
 
 package PJ3;
 
@@ -20,7 +20,7 @@ class Teller {
    // Constructor
    Teller()
    {
-	// add statements
+
        startTime = 0;
        endTime =0;
        tellerID = 1;
