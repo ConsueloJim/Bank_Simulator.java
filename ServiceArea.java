@@ -34,7 +34,6 @@ class CompareTeller implements Comparator<Teller>{
 	}
 }
 
-// DO NOT ADD NEW METHODS OR DATA FIELDS
 class ServiceArea {
 
   
